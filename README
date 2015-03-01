@@ -1,0 +1,9 @@
+Copyright (c) 2014, 2015, Technische Universität München, Laurent Morin
+All rights reserved.
+
+See COPYING for usage right information
+
+INTRODUCTION
+Please refer to INSTALL or issue './configure --help' for general instructions.
+On a typical GNU/Linux distribution, the common sequence of commands './configure && make && sudo make install' are likely enough to get a working Periscope installation.
+
